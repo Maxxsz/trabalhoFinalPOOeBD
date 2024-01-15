@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37bc8513-858f-476b-9db0-d16a1b634173" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/sport/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/team/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/controller/playerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/controller/playerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerRequestDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/player/PlayerResponseDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/MatchRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/MatchRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/MatchResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/score4you/match/MatchResponseDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,15 @@
       <workItem from="1699052427407" duration="4758000" />
       <workItem from="1699305081358" duration="3273000" />
       <workItem from="1700073191752" duration="3542000" />
-      <workItem from="1700085037708" duration="3604000" />
+      <workItem from="1700085037708" duration="4536000" />
+      <workItem from="1700596664786" duration="926000" />
+      <workItem from="1700605966023" duration="3443000" />
+      <workItem from="1700859181665" duration="3471000" />
+      <workItem from="1700967144764" duration="417000" />
+      <workItem from="1701033031328" duration="10530000" />
+      <workItem from="1701069231472" duration="1221000" />
+      <workItem from="1701128311404" duration="706000" />
+      <workItem from="1701258978499" duration="677000" />
     </task>
     <servers />
   </component>

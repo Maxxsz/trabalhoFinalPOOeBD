@@ -33,7 +33,7 @@ public class playerController {
     @CrossOrigin(origins = "*", allowedHeaders = "*")
     //Indicando ao spring que ao receber um GET no endpoint "player" essa função será chamada
     @GetMapping
-    // Classe responsável por retornar uma lista com todos os jogadores registrados
+    // Método responsável por retornar uma lista com todos os jogadores registrados
     public List<PlayerResponseDTO> getAll(){
         // stream vai pegar todos esses dados que vieram do findAll e utilizamos o map para criar um Data transfer object para cada um dos objetos
         List<PlayerResponseDTO> playerList = playerRepository.findAll().stream().map(PlayerResponseDTO::new).toList();
